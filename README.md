@@ -54,7 +54,7 @@
 
 - **Y** - *( [YAML](https://yaml.org/), [Yarn](https://yarnpkg.com/))*
 
-- **Z** - *( [Zend](https://framework.zend.com/) )*
+- **Z** - *( [Zend](https://framework.zend.com/), [Zsh](http://zsh.sourceforge.net/) )*
 
 
 ---------------------------------------
